@@ -1,0 +1,14 @@
+.app_demo_bootstrap {
+    background-color: grey;
+}
+.col, .col-sm-8 {
+    border: 1px solid yellow;
+}
+
+.list-group-item.active {
+    background-color: red;
+}
+
+.list-group-item.active:hover {
+    background-color: green;
+}
